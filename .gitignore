@@ -1,0 +1,10 @@
+/.gradle/
+/build/
+/obj/
+/src/main/jniLibs/
+/local.properties
+.DS_Store
+
+# Android Studio and IntelliJ IDEA stuff
+/.idea/
+*.iml
